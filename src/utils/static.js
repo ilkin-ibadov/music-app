@@ -34,52 +34,52 @@ export const tracks = [
 export const artists = [
     {
         name: "Broadside",
-        img: require('../assets/images/broadside.png'),
+        img: '/images/broadside.png',
         id: 1
     },
     {
         name: "Brux",
-        img: require('../assets/images/brux.png'),
+        img: '/images/brux.png',
         id: 2
     },
     {
         name: "Confidential Recipe",
-        img: require('../assets/images/confidentialRecipe.png'),
+        img: '/images/confidentialRecipe.png',
         id: 3
     },
     {
         name: "Elle Shimada",
-        img: require('../assets/images/elleShimada.png'),
+        img: '/images/elleShimada.png',
         id: 4
     },
     {
         name: "FlyDropThaBeat",
-        img: require('../assets/images/flyDropThaBeat.png'),
+        img: '/images/flyDropThaBeat.png',
         id: 5
     },
     {
         name: "Jitwam",
-        img: require('../assets/images/jitwam.png'),
+        img: '/images/jitwam.png',
         id: 6
     },
     {
         name: "Lamorn",
-        img: require('../assets/images/lamorn.png'),
+        img: '/images/lamorn.png',
         id: 7
     },
     {
         name: "Speaker Honey",
-        img: require('../assets/images/speakerHoney.png'),
+        img: '/images/speakerHoney.png',
         id: 8
     },
     {
         name: "Volaris",
-        img: require('../assets/images/volaris.png'),
+        img: '/images/volaris.png',
         id: 9
     },
     {
         name: "Unnamed",
-        img: require('../assets/images/unnamed.png'),
+        img: '/images/unnamed.png',
         id: 10
     }
 ]
@@ -177,26 +177,26 @@ export const tabOptions = [
 export const modalItems = [
     {
         text: "Activate Refresh on an individual stem to refresh a random random section on every loop",
-        img: require('../assets/images/modalRefresh.png')
+        img: '/images/modalRefresh.png'
     },
     {
         text: "Select Refresh All to refresh all stems once",
-        img: require('../assets/images/modalRefreshAll.png')
+        img: '/images/modalRefreshAll.png'
     },
     {
         text: "Select the Auto Refresh toggle to connately refresh all stems on every loop",
-        img: require('../assets/images/modalAutoRefresh.png')
+        img: '/images/modalAutoRefresh.png'
     },
     {
         text: "Mute Stem",
-        img: require('../assets/images/modalMute.png')
+        img: '/images/modalMute.png'
     },
     {
         text: "Pause and Play song",
-        img: require('../assets/images/modalPause.png')
+        img: '/images/modalPause.png'
     },
     {
         text: "Select Create Song to save your creation to your Song Library",
-        img: require('../assets/images/modalCreate.png')
+        img: '/images/modalCreate.png'
     },
 ]
